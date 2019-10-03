@@ -84,7 +84,7 @@ $ cda -a brketels -e ignite https://microsoft.com
 You need Go 1.11 or above to use this properly.
 
 1. Checkout the repository. If you put it into the `GOPATH`, you must set `GO111MODULE` to `on`
-  * Optionally set `GOPROXY` to `https://microsoftgoproxy.azurewebsites.net` for more reliable builds. That server is experimental and might go away, though
+  * Optionally set `GOPROXY` to `https://athens.azurefd.net` for more reliable builds. That server is experimental and might go away, though
 1. Use the makefile to build a binary
 
 ```bash
